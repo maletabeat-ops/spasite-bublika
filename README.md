@@ -1,5 +1,6 @@
-# Спасите Бублика!
+# Игры
 
-Браузерная головоломка: собирай «три в ряд», чтобы открыть люки и спасти короля Бублика от песка, воды и лавы.
+- «Спасите Бублика!» — головоломка: https://maletabeat-ops.github.io/spasite-bublika/
+- «Фонарщица» — 2D-квест: https://maletabeat-ops.github.io/spasite-bublika/fonarshitsa/
 
-Играть: https://maletabeat-ops.github.io/spasite-bublika/
+Текстуры и картинки: свои (сгенерированы), карта и персонажи — Google Flow.
